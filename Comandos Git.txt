@@ -1,0 +1,7 @@
+//muestra los cambios
+git status
+
+//confirma los cambios
+git commit -m "comment"
+
+//
